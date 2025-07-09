@@ -31,7 +31,7 @@ export default function Features() {
   ];
 
   return (
-    <section id="features" className="bg-white py-24 px-6">
+    <section id="caracteristicas" className="bg-white py-24 px-6">
       <div className="max-w-7xl mx-auto">
         {/* Título centrado */}
         <div className="text-center mb-12 max-w-2xl mx-auto">

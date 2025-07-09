@@ -10,7 +10,7 @@ export default function Footer() {
         <nav className="space-x-6">
           <a href="#features" className="hover:text-white transition">Características</a>
           <a href="#pricing" className="hover:text-white transition">Precios</a>
-          <a href="#contact" className="hover:text-white transition">Contacto</a>
+          <a href="#contacto" className="hover:text-white transition">Contacto</a>
           <a href="#about" className="hover:text-white transition">Nosotros</a>
         </nav>
 

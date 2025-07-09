@@ -48,7 +48,7 @@ export default function Header() {
 
           {/* Menú escritorio */}
           <nav className="hidden md:flex space-x-10 text-gray-700 font-semibold tracking-wide text-lg">
-            {['home', 'features', 'planes', 'about',  'contact'].map((section) => (
+            {['inicio', 'caracteristicas', 'planes', 'Nosotros',  'contacto'].map((section) => (
               <a
                 key={section}
                 href={`#${section}`}
@@ -89,7 +89,7 @@ export default function Header() {
               id="mobile-menu"
               className="fixed top-[60px] left-0 right-0 bg-white shadow-lg z-50 py-6 px-8 space-y-6 text-center font-semibold text-gray-700 text-lg rounded-b-xl"
             >
-              {['home', 'features', 'planes', 'about', 'contact'].map((section) => (
+              {['inicio', 'caracteristicas', 'planes', 'Nosotros',  'contacto'].map((section) => (
                 <a
                   key={section}
                   href={`#${section}`}

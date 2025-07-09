@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 const Hero = () => {
   return (
-    <section id='home' className="bg-gray-50 py-32 px-6"> {/* Más alto */}
+    <section id='inicio' className="bg-gray-50 py-32 px-6"> {/* Más alto */}
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
         {/* Texto */}
         <div className="text-left">

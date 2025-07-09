@@ -1,6 +1,6 @@
 export default function ContactCTA() {
   return (
-    <section id="contact" className="bg-indigo-900 py-24 px-6 text-center text-white">
+    <section id="contacto" className="bg-indigo-900 py-24 px-6 text-center text-white">
       <div className="max-w-3xl mx-auto">
         <h2 className="text-5xl font-extrabold mb-6 leading-tight">
           ¿Listo para llevar tu negocio al siguiente nivel?
